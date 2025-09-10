@@ -49,6 +49,8 @@ Hasilnya, kondisi `WHERE` selalu *true* dan autentikasi terlewati.
 5. Setelah masuk, buka menu **Account** di pojok kanan atas untuk melihat bahwa sesi masuk menggunakan akun admin (alamat seperti `admin@juice-sh.op` akan terlihat).
 
 ![](https://media.discordapp.net/attachments/1249245055185715221/1415301313645903923/image.png?ex=68c2b590&is=68c16410&hm=8c505fb7c1e734dd20e106682c0fc82af04aeb82fffc17b16ff6367a5ad7e1df&=&format=webp&quality=lossless&width=1842&height=856)
+
+![](https://media.discordapp.net/attachments/1249245055185715221/1415301999423000710/image.png?ex=68c2b633&is=68c164b3&hm=16477e91db024890d5078ef2646a645e464bd5efb6c4063d0dae66432a71c088&=&format=webp&quality=lossless&width=550&height=263)
 ---
 
 ## Bukti & Observasi
